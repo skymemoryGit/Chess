@@ -1,0 +1,26 @@
+28/11/2014: Inizio progetto:realizzato la parte algoritmica ,la disposizione delle pedine, e inizializzato il campo da gioco.
+
+29/11/2014:Inizio parte grafica: inizializzato i Jbutton nel Jframe e finito il protocollo di movimento per i pedoni. Utilizzato il meccanismo del  polimorfismo(una classe può avere più "forme"), in particolare per il metodo override checkmossavalida(il programma va prendere il check specifico della classe).
+
+6/12/2014: Debug protocollo pedone e completato tutto il suo protocollo movimento. Realizzato Sceltabox(frame) che viene visualizzato quando un pedone è arrivato in fondo per diventare un' altra pedina(regina,torre,alfiere o cavallo). Realizzato il protocollo di movimento del cavallo.(Circa 4 ore di lavoro.. un sabato buttato via cosi a random!)
+
+8/12/2014: Realizzato il protocollo di movimento della torre e dell'alfiere(Incredibile!  2 protocolli in un solo giorno ). Automaticamente è stato realizzato anche il protocollo di movimento per la regina in quanto è  la fusione tra torre e alfiere(quindi basta sommare i 2 protocolli ottenuti prima! ). 
+
+14/12/2014: Realizzata tutta la parte model; Fatto tutti i protocolli delle pedine nere ottenute da copia-incolla da quelle bianche, cambiado alcuni paramentri. Inizio la parte grafica propria e trovato la strada più idonea per setIcon(sfruttando il metodo ovverride )
+
+3/1/2015 : 1 ora di lavoro sulle realizzazioni delle incone usando photoshop.
+
+14/01/2015: Debug e lavoro photoshop. Realizzato top bar.
+
+15/01/2015: Realizzato save e load. Ora le partite possono essere salvate e caricate dall'utente. (2 ore di lavoro)
+
+22/01/2015 : Realizzato finalmente ViewMosse e RemoveMosse!!!
+
+24/01/2015 : Cominciato a fare i controlli per lo scatto matto(2.5 di lavoro)
+
+
+29/01/2015: DEBUG TOTALE e realizzato SCATTO MATTO (4 ore di lavoro|!!|!!!!!!!!!!!!!!!!!!!!!)
+
+30/01/2015: Debug ancora, perfezionato vari aspetti model, graphic, controller.(2 ore lavoro)
+
+4/02/2015: Arrocco
